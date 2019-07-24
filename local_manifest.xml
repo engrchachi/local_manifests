@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--dipper-->
-  <project path="device/xiaomi/dipper" name="engrchachi/device_xiaomi_dipper" remote="github" revision="pie" />
+  <project path="device/xiaomi/dipper" name="engrchachi/aex_device_xiaomi_dipper" remote="github" revision="9.x" />
   <project path="device/xiaomi/sdm845-common" name="engrchachi/aosp_device_xiaomi_sdm845-common" remote="github" revision="pie" />
   <project path="kernel/xiaomi/sdm845" name="LineageOS/android_kernel_xiaomi_sdm845" remote="github" revision="lineage-16.0" />
   <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="lineage-16.0" />
-  <project path="packages/resources/devicesetings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-16.0" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
